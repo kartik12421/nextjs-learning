@@ -1,11 +1,12 @@
+"use client"
 import React from 'react'
 
 const Navbar = () => {
   return (
     <div>
-      i am navbar
+      i am a navbar
     </div>
   )
 }
 
-export default Navbar;
+export default Navbar
